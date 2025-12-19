@@ -5,6 +5,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sklearn,vscode,git,github" />
+  </a>
+</p>
+
 ## 📋 Executive Summary
 This repository represents a comprehensive **Data Science & Machine Learning Odyssey**. It goes beyond simple API calls by implementing core algorithms **from scratch (First Principles)** to demonstrate a deep understanding of the underlying mathematics, while also leveraging industry-standard libraries like **Scikit-Learn** for scalable solutions.
 
