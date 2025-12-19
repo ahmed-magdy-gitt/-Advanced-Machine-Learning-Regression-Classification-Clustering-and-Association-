@@ -1,4 +1,4 @@
-# 🌟 Advanced Machine Learning Portfolio: From Mathematical Foundations to Complex Algorithms
+# 🌟 Advanced Machine Learning : Regression, Classification, Clustering and Association 
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -17,7 +17,7 @@ The project encompasses the full spectrum of Machine Learning:
 
 ## 🛠️ Project Architecture & Modules
 
-### 1️⃣ The Mathematics of Regression (Implementation from Scratch)
+### 1️⃣ Regression (Implementation from Scratch)
 *File: `imple.py`, `Final_Project.ipynb`*
 
 Unlike typical projects that rely solely on `model.fit()`, this module dives into the math behind Linear Regression.
